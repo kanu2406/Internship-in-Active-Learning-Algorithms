@@ -96,5 +96,6 @@ The internship successfully explored the following:
 Non-synthetic dataset (Stroke Prediction Dataset) used for testing was sourced from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
 **Future Work**: The report concludes by suggesting future improvements, such as further refining active learning for imbalanced datasets and exploring other sampling strategies.
+
 **Suggestions and Improvements**: Suggestions and improvements are welcome! Feel free to open an issue or submit a pull request if you have ideas for enhancing this project.
 
