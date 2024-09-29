@@ -43,7 +43,7 @@ Binary classification is a supervised learning task that assigns one of two labe
 ---
 
 ## 2. Empirical Risk Minimization
-The concept of **Empirical Risk Minimization (ERM)** is studied in detail, where the goal is to minimize the misclassification risk using a set of classifiers and labeled data. The theoretical guarantees for both passive and active learning frameworks are presented, including **Theorem 1** and **Theorem 2** for the passive learning framework.
+The concept of **Empirical Risk Minimization (ERM)** is studied in detail, where the goal is to minimize the misclassification risk using a set of classifiers and labeled data. The theoretical guarantees for both passive and active learning frameworks are also presented.
 
 ---
 
@@ -96,4 +96,5 @@ The internship successfully explored the following:
 Non-synthetic dataset (Stroke Prediction Dataset) used for testing was sourced from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
 **Future Work**: The report concludes by suggesting future improvements, such as further refining active learning for imbalanced datasets and exploring other sampling strategies.
+**Suggestions and Improvements**: Suggestions and improvements are welcome! Feel free to open an issue or submit a pull request if you have ideas for enhancing this project.
 
